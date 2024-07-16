@@ -122,3 +122,6 @@ body {
   height: 10rem;
   opacity: 0.5;
 }
+.hidden {
+  display: none;
+}
